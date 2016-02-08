@@ -59,6 +59,17 @@
     "Do you want change your e-mail address?"                     : "Megszeretnéd változtatni az e-mail címed?",
     "Yes"                                                         : "Igen",
     "No"                                                          : "Nem",
+    "week"                                                        : "__count__ hét",
+    "week_plural"                                                 : "__count__ hét",
+    "day"                                                         : "__count__ nap",
+    "day_plural"                                                  : "__count__ nap",
+    "hour"                                                        : "__count__ óra",
+    "hour_plural"                                                 : "__count__ óra",
+    "minute"                                                      : "__count__ perc",
+    "minute_plural"                                               : "__count__ perc",
+    "second"                                                      : "__count__ másodperc",
+    "second_plural"                                               : "__count__ másodperc",
+    "Build time"                                                  : "Építési idő",
     "schemas": {
         "UserLogin": {
             "identification": {

@@ -56,6 +56,17 @@
     "Do you want change your e-mail address?"                       : "Do you want change your e-mail address?",
     "Yes"                                                           : "Yes",
     "No"                                                            : "No",
+    "week"                                                          : "__count__ week",
+    "week_plural"                                                   : "__count__ weeks",
+    "day"                                                           : "__count__ day",
+    "day_plural"                                                    : "__count__ days",
+    "hour"                                                          : "__count__ hour",
+    "hour_plural"                                                   : "__count__ hours",
+    "minute"                                                        : "__count__ minute",
+    "minute_plural"                                                 : "__count__ minutes",
+    "second"                                                        : "__count__ second",
+    "second_plural"                                                 : "__count__ seconds",
+    "Build time"                                                    : "Build time",
     "schemas": {
         "UserLogin": {
             "identification": {
