@@ -1,0 +1,197 @@
+{ 
+    "Lords of Sigurvia"                                           : "Sigurvia Lovagjai",
+    "Welcome to the land of Sigurvia"                             : "Üdvözlöm Sigurviában __username__!",
+    "Home"                                                        : "Főmenü",
+    "Forum"                                                       : "Fórum",
+    "Construction"                                                : "Építés",
+    "Login"                                                       : "Bejelentkezés",
+    "Account"                                                     : "Felhasználói fiók",
+    "ID"                                                          : "Azonosító",
+    "Register"                                                    : "Regisztráció",
+    "Logout"                                                      : "Kijelentkezés",
+    "Forgot your password?"                                       : "Elfelejtett jelszó",
+    "Forgotten password"                                          : "Elfelejtett jelszó",
+    "Resend activation email"                                     : "Aktivációs e-mail újraküldése",
+    "Cancel"                                                      : "Mégse",
+    "Submit"                                                      : "Mehet",
+    "Fields marked with an asterisk are required"                 : "A <span style='color: #b94a48;'>*</span> megjelölt mezők kitöltése kötelező!",
+    "There is an operation that logged you out for security reasons": "Biztonsági okokból a művelet előtt a böngésző kijelentkeztette!",
+    "User not found"                                              : "Ilyen felhasználó nem található!",
+    "Incorrect password"                                          : "Ilyen felhasználó nem található!",
+    "Username already exists"                                     : "Már foglalt ez a felhasználónév!",
+    "Email already exists"                                        : "Már foglalt ez az e-mail cím!",
+    "Not a valid registration code"                               : "Nem megfelelő regisztrációs kód!",
+    "Not a valid email address"                                   : "Nem érvényes e-mail cím!",
+    "Email address successfully changed"                          : "Az e-mail cím sikeresen lecserélve!",
+    "A new verification code has been sent"                       : "Új aktivációs kód kiküldve.",
+    "Successfully registered"                                     : "Sikeres regisztráció!",
+    "A verification code has been sent"                           : "Aktivációs kód kiküldve.",
+    "Please choose an option first"                               : "Előbb válassz egy opciót!",
+    "Waiting for response"                                        : "Várakozás a válaszra.",
+    "Resend"                                                      : "Újraküldés",
+    "Terms of Use"                                                : "Felhasználási feltételek",
+    "Instructions with a reset code has been sent"                : "Útmutató visszaállító kóddal kiküldve.",
+    "Next step"                                                   : "Következő lépés",
+    "Send instructions"                                           : "Útmutató küldése",
+    "OR"                                                          : "VAGY",
+    "Change password"                                             : "Jelszó megváltoztatása",
+    "Your password is too weak"                                   : "Nem elég erős jelszó!",
+    "Reset usernames password"                                    : "Útmutató __username__ jelszavának visszaállításához.",
+    "Error, too many requests Please slow down You must wait 10 seconds before trying again" : "Túl sok próbálkozás rövi időn bellül! Kérlek légy türelemmel. Még 10 másodpercet várnod kell.",
+    "Error, too many requests Please slow down You must wait 9 seconds before trying again" : "Túl sok próbálkozás rövi időn bellül! Kérlek légy türelemmel. Még 9 másodpercet kell várnod.",
+    "Error, too many requests Please slow down You must wait 8 seconds before trying again" : "Túl sok próbálkozás rövi időn bellül! Kérlek légy türelemmel. Még 8 másodpercet kell várnod.",
+    "Error, too many requests Please slow down You must wait 7 seconds before trying again" : "Túl sok próbálkozás rövi időn bellül! Kérlek légy türelemmel. Még 7 másodpercet kell várnod.",
+    "Error, too many requests Please slow down You must wait 6 seconds before trying again" : "Túl sok próbálkozás rövi időn bellül! Kérlek légy türelemmel. Még 6 másodpercet kell várnod.",
+    "Error, too many requests Please slow down You must wait 5 seconds before trying again" : "Túl sok próbálkozás rövi időn bellül! Kérlek légy türelemmel. Még 5 másodpercet kell várnod.",
+    "Error, too many requests Please slow down You must wait 4 seconds before trying again" : "Túl sok próbálkozás rövi időn bellül! Kérlek légy türelemmel. Még 4 másodpercet kell várnod.",
+    "Error, too many requests Please slow down You must wait 3 seconds before trying again" : "Túl sok próbálkozás rövi időn bellül! Kérlek légy türelemmel. Még 3 másodpercet kell várnod.",
+    "Error, too many requests Please slow down You must wait 2 seconds before trying again" : "Túl sok próbálkozás rövi időn bellül! Kérlek légy türelemmel. Még 2 másodpercet kell várnod.",
+    "Error, too many requests Please slow down You must wait 1 seconds before trying again" : "Túl sok próbálkozás rövi időn bellül! Kérlek légy türelemmel. Csak 1 másodpercet kell várnod.",
+    "verify_email"                                                : "<h1>Sikeresen regisztráltál!</h1><h3>Ám ahhoz, hogy egyedi kalandod elkezdődhessen Sigurviában, előbb aktiválnod kell ezt az e-mail címet.</h3>Ehhez csak az alábbi linkre kell kattintanod: <a href='__url__'>__url__</a>,<br>vagy a következő aktiváló kódot bejelentkezés után megadnod: __code__<br><br><small><b>Sigurvia (<a href='__site__'>__site__</a>) lakosai már várnak rád __username__!</b></small>",
+    "reset_password_email"                                        : "<h1>Úgy néz ki elfeljtetted jelszavad.</h1><h3>Szerencsére ez nem kell, hogy kalandjaid végét jelentse.</h3>Egy új jelszó beállításához, az alábbi linkre kell csak kattintanod: <a href='__url__'>__url__</a>,<br>vagy a következő kódot az <a href='__site__reset-password'>Elfelejtett jelszó</a> menüben megadnod: __code__<br><br><small><b>Sigurvia (<a href='__site__'>__site__</a>) lakosai már várnak visszatérésedre __username__!</b></small>",
+    "Verify email link expired"                                   : "Lejárt e-mail aktivációs kód!",
+    "Token expired"                                               : "Lejárt kód!",
+    "Verify e-mail address"                                       : "E-mail aktiválás",
+    "E-mail address"                                              : "E-mail cím",
+    "Verification code"                                           : "Aktivációs kód",
+    "Verify"                                                      : "Aktiválás",
+    "At least one e-mail address must be verified"                : "Legalább egy e-mail cím aktiválása kötelező!",
+    "Do you want change your e-mail address?"                     : "Megszeretnéd változtatni az e-mail címed?",
+    "Yes"                                                         : "Igen",
+    "No"                                                          : "Nem",
+    "schemas": {
+        "UserLogin": {
+            "identification": {
+                "label": "Azonosító",
+                "placeholder": "Felhasználónév vagy E-mail"
+            },
+            "password": {
+                "label": "Jelszó"
+            },
+            "rememberMe": {
+                "label": "Emlékezz rám"
+            }
+        },
+        "UserRegister": {
+            "username": {
+                "label": "Felhasználónév",
+                "placeholder": "Lovagod neve"
+            },
+            "email": {
+                "label": "E-mail cím"
+            },
+            "password": {
+                "label": "Jelszó"
+            },
+            "passwordAgain": {
+                "label": "Jelszó megerősítése"
+            },
+            "code": {
+                "label": "Regisztrációs kód"
+            },
+            "eula": {
+                "label": "Elfogadom a felhasználási feltételeket"
+            }
+        },
+        "UserEmail": {
+            "emails": {
+                "label": "Legalább egy e-mail cím",
+                "$": {
+                    "address": {
+                      "label": "E-mail cím"
+                    },
+                    "token": {
+                        "label": "Aktivációs kód",
+                        "placeholder": "Levélben kapott kód"
+                    }
+                }
+            }
+        },
+        "CoreEmail": {
+            "email": {
+                "label": "E-mail cím",
+                "placeholder": "Regisztrált e-mail címed"
+            }
+        },
+        "ResetPassword": {
+            "token": {
+                "label": "Kapott kód",
+                "placeholder": "Levélben kapott kód"
+            },
+            "password": {
+                "label": "Jelszó"
+            },
+            "passwordAgain": {
+                "label": "Jelszó megerősítése"
+            }
+        }
+    },
+    "simpleschema": {
+    "messages": {
+      "required": "[label] megadása kötelező",
+      "minString": "[label] legalább [min] karakter hosszú legyen",
+      "maxString": "[label] nem lehet [max] karakternél hosszabb",
+      "minNumber": "[label] minimum [min] legyen",
+      "maxNumber": "[label] maximum [max] lehet",
+      "minNumberExclusive": "[label] nagyobbnak kell lennie mint [min]",
+      "maxNumberExclusive": "[label] kisebbnek kell lennie mint [max]",
+      "minDate": "[label] később vagy aznap kell lennie mint [min]",
+      "maxDate": "[label] nem lehet [max] után",
+      "badDate": "[label] nem megfelelő formátumú dátum",
+      "minCount": "Legalább [minCount] értéket meg kell adnod",
+      "maxCount": "Nem adhatsz meg [maxCount] értéknél többet",
+      "noDecimal": "[label] egész számnak kell lennie",
+      "notAllowed": "[value] nem megengedett érték",
+      "expectedString": "[label] szövegnek kell lennie",
+      "expectedNumber": "[label] számnak kell lennie",
+      "expectedBoolean": "[label] logikai értéknek kell lennie",
+      "expectedArray": "[label] tömbnek kell lennie",
+      "expectedObject": "[label] objektum tipusúnak kell lennie",
+      "expectedConstructor": "[label] [type] típusúnak kell lennie",
+      "keyNotInSchema": "[key] érték a séma miatt nem engedélyezett",
+      "notIdenticalPasswords": "A megadott jelszavak nem egyeznek",
+      "mustAcceptEula": "El kell fogadnod a Felhasználási feltételeket",
+      "regEx": {
+        "0": {
+          "msg": "[label] tiltott karaktereket tartalmaz"
+        },
+        "1": {
+          "exp": "SimpleSchema.RegEx.Email",
+          "msg": "Nem érvényes e-mail cím"
+        },
+        "2": {
+          "exp": "SimpleSchema.RegEx.WeakEmail",
+          "msg": "Nem érvényes e-mail cím"
+        },
+        "3": {
+          "exp": "SimpleSchema.RegEx.Domain",
+          "msg": "[label] érvényes tartománynak kell lennie"
+        },
+        "4": {
+          "exp": "SimpleSchema.RegEx.WeakDomain",
+          "msg": "[label] érvényes tartománynak kell lennie"
+        },
+        "5": {
+          "exp": "SimpleSchema.RegEx.IP",
+          "msg": "[label] érvényes IPv4 vagy IPv6 címnek kell lennie"
+        },
+        "6": {
+          "exp": "SimpleSchema.RegEx.IPv4",
+          "msg": "[label] érvényes IPv4 címnek kell lennie"
+        },
+        "7": {
+          "exp": "SimpleSchema.RegEx.IPv6",
+          "msg": "[label] érvényes IPv6 címnek kell lennie"
+        },
+        "8": {
+          "exp": "SimpleSchema.RegEx.Url",
+          "msg": "[label] érvényes URL címnek kell lennie"
+        },
+        "9": {
+          "exp": "SimpleSchema.RegEx.Id",
+          "msg": "[label] érvényes alfanumerikus azonosítónak kell lennie"
+        }
+      }
+    }
+  }
+}
