@@ -29,7 +29,7 @@ There are several `JSON` files named by their language they support.
 * If you wish to know more about the backend translation technology visit the [TAPevents/tap-i18n repository](https://github.com/TAPevents/tap-i18n#contents).
 
 ## Contributors
-@Szayet - English and Hungarian translation
+[@Szayet](http://github.com/Szayet) - English and Hungarian translation
 
 ## Currently supported languages
 
