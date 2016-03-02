@@ -14,6 +14,7 @@
     "Resend activation email"                                     : "Aktivációs e-mail újraküldése",
     "Cancel"                                                      : "Mégse",
     "Submit"                                                      : "Mehet",
+    "Build"                                                       : "Épít",
     "Fields marked with an asterisk are required"                 : "A <span style='color: #b94a48;'>*</span> megjelölt mezők kitöltése kötelező!",
     "There is an operation that logged you out for security reasons": "Biztonsági okokból a művelet előtt a böngésző kijelentkeztette!",
     "User not found"                                              : "Ilyen felhasználó nem található!",
@@ -48,7 +49,9 @@
     "Error, too many requests Please slow down You must wait 2 seconds before trying again" : "Túl sok próbálkozás rövi időn bellül! Kérlek légy türelemmel. Még 2 másodpercet kell várnod.",
     "Error, too many requests Please slow down You must wait 1 seconds before trying again" : "Túl sok próbálkozás rövi időn bellül! Kérlek légy türelemmel. Csak 1 másodpercet kell várnod.",
     "verify_email"                                                : "<h1>Sikeresen regisztráltál!</h1><h3>Ám ahhoz, hogy egyedi kalandod elkezdődhessen Sigurviában, előbb aktiválnod kell ezt az e-mail címet.</h3>Ehhez csak az alábbi linkre kell kattintanod: <a href='__url__'>__url__</a>,<br>vagy a következő aktiváló kódot bejelentkezés után megadnod: __code__<br><br><small><b>Sigurvia (<a href='__site__'>__site__</a>) lakosai már várnak rád __username__!</b></small>",
+    "verify_email_text"                                           : "Sikeresen regisztráltál!\r\n\r\nÁm ahhoz, hogy egyedi kalandod elkezdődhessen Sigurviában, előbb aktiválnod kell ezt az e-mail címet.\r\nEhhez csak az alábbi webcímet kell meglátogatnod: __url__,\r\nvagy a következő aktiváló kódot bejelentkezés után megadnod: __code__\r\n\r\nSigurvia (__site__) lakosai már várnak rád __username__!",
     "reset_password_email"                                        : "<h1>Úgy néz ki elfeljtetted jelszavad.</h1><h3>Szerencsére ez nem kell, hogy kalandjaid végét jelentse.</h3>Egy új jelszó beállításához, az alábbi linkre kell csak kattintanod: <a href='__url__'>__url__</a>,<br>vagy a következő kódot az <a href='__site__reset-password'>Elfelejtett jelszó</a> menüben megadnod: __code__<br><br><small><b>Sigurvia (<a href='__site__'>__site__</a>) lakosai már várnak visszatérésedre __username__!</b></small>",
+    "reset_password_email_text"                                   : "Úgy néz ki elfeljtetted jelszavad.\r\n\r\nSzerencsére ez nem kell, hogy kalandjaid végét jelentse.\r\nEgy új jelszó beállításához, az alábbi webcímet kell meglátogatnod: __url__,\r\nvagy a következő kódot az Elfelejtett jelszó menüben megadnod: __code__\r\n\r\nSigurvia (__site__) lakosai már várnak visszatérésedre __username__!",
     "Verify email link expired"                                   : "Lejárt e-mail aktivációs kód!",
     "Token expired"                                               : "Lejárt kód!",
     "Verify e-mail address"                                       : "E-mail aktiválás",
@@ -70,6 +73,8 @@
     "second"                                                      : "__count__ másodperc",
     "second_plural"                                               : "__count__ másodperc",
     "Build time"                                                  : "Építési idő",
+    "Invalid building"                                            : "Érvénytelen épület!",
+    "Invalid building count"                                      : "Érvénytelen építési mennyiség!",
     "schemas": {
         "UserLogin": {
             "identification": {

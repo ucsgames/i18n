@@ -14,6 +14,7 @@
     "Resend activation email"                                       : "Resend activation email",
     "Cancel"                                                        : "Cancel",
     "Submit"                                                        : "Submit",
+    "Build"                                                         : "Build",
     "Fields marked with an asterisk are required"                   : "Fields marked with an <span style='color: #b94a48;'>*</span> are required.",
     "There is an operation that logged you out for security reasons": "An operation logged you out for security reasons.",
     "User not found"                                                : "User not found.",
@@ -47,7 +48,9 @@
     "Error, too many requests Please slow down You must wait 2 seconds before trying again" : "Error, too many requests. Please slow down. You must wait 1 seconds before trying again.",
     "Error, too many requests Please slow down You must wait 1 seconds before trying again" : "Error, too many requests. Please slow down. You must wait 1 second before trying again.",
     "verify_email"                                                  : "<h1>You have successfully registered!</h1><h3>However, to start your own journey across the land of Sigurvia, you need to verify this e-mail adress.</h3>To do so, you only need to click the following link: <a href='__url__'>__url__</a>,<br>or copy-paste the following code after logging in: __code__<br><br><small><b>The people of Sigurvia needs you (<a href='__site__'>__site__</a>) __username__!</b></small>",
+    "verify_email_text"                                             : "You have successfully registered!\r\n\r\nHowever, to start your own journey across the land of Sigurvia, you need to verify this e-mail adress.\r\nTo do so, you only need to visit the following url: __url__,\r\nor copy-paste the following code after logging in: __code__\r\n\r\nThe people of Sigurvia needs you (__site__) __username__!",
     "reset_password_email"                                          : "<h1>It looks like you have forgotten your password.</h1><h3>This fortunately does not mean your journey's end.</h3>To change your password to a new one, you only need to click the following link: <a href='__url__'>__url__</a>,<br>or copy-paste the following code in the <a href='__site__reset-password'>Forgotten password</a> form: __code__<br><br><small><b>The people of Sigurvia awaits your return (<a href='__site__'>__site__</a>) __username__!</b></small>",
+    "reset_password_email_text"                                     : "It looks like you have forgotten your password.\r\n\r\nThis fortunately does not mean your journey's end.\r\nTo change your password to a new one, you only need to visit the following url: __url__,\r\nor copy-paste the following code in the Forgotten password form: __code__\r\n\r\nThe people of Sigurvia awaits your return (__site__) __username__!",
     "Verify email link expired"                                     : "E-mail verification link expired.",
     "Token expired"                                                 : "Code expired.",
     "Verify e-mail address"                                         : "E-mail verification",
@@ -67,6 +70,8 @@
     "second"                                                        : "__count__ second",
     "second_plural"                                                 : "__count__ seconds",
     "Build time"                                                    : "Build time",
+    "Invalid building"                                              : "Invalid building.",
+    "Invalid building count"                                        : "Invalid building count.",
     "schemas": {
         "UserLogin": {
             "identification": {
